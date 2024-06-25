@@ -1,0 +1,60 @@
+li{
+    font-size: 20px;
+}
+.product-items{
+    div{
+        background-color: #cfe2ff;
+        height: 100%;
+    }
+    p{
+        font-weight: 600;
+        color: #0d123a;
+    }
+    h2{
+        color: #0d123a;
+        font-weight: 700;
+    }
+}
+body{
+    background-color: black;
+    overflow-x: hidden;
+}
+.price{
+    font-size: 20px;
+}
+#contact{
+    background-color: #cfe2ff;
+    padding:10px;
+    font-size: 18px;
+}
+@media screen and (max-width:649px) {
+    .home{
+        background-image: linear-gradient(to left , transparent , black), url("https://img.freepik.com/free-photo/sports-car-driving-asphalt-road-night-generative-ai_188544-8052.jpg?t=st=1719303630~exp=1719307230~hmac=1f17c50fef6f7c2d132bf84662524c2dbb33d047c9bfaf2028f96049d70ad5be&w=890");
+        color:white;
+        padding: 40px;
+        background-position: center;
+    }
+    .car-logos{
+        position: sticky;
+        top:0;
+    }
+}
+@media screen  and (min-width:650px){
+    .home{
+        background-image: linear-gradient(to left , transparent , black), url("https://img.freepik.com/free-photo/sports-car-driving-asphalt-road-night-generative-ai_188544-8052.jpg?t=st=1719303630~exp=1719307230~hmac=1f17c50fef6f7c2d132bf84662524c2dbb33d047c9bfaf2028f96049d70ad5be&w=890");
+        height: 100%;
+        background-position: right;
+        color:white;
+        padding: 5rem 0;
+        article{
+            padding:3rem 12rem 0 2rem;
+            width:70%;
+            p{
+                color: #c4c4c4;
+            }
+        }
+        button{
+            margin-left: 2rem;
+        }
+    }
+}
