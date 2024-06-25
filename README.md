@@ -1,5 +1,5 @@
 # A Responsive static Webpage for car
-- <p>Note all price ain't the market price</p>
+- <p>Note: The price is realistic</p>
 ## Desktop View
 ![image](https://github.com/ladibanks1/bootstrap-landing-page/assets/152061047/d163905e-51e2-4d69-9381-5dd9bbf048d3)
 ![image](https://github.com/ladibanks1/bootstrap-landing-page/assets/152061047/15ce8d6b-70a4-43c0-8a89-789aad926ad3)
