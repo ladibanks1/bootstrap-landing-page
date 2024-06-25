@@ -15,10 +15,6 @@ li{
         font-weight: 700;
     }
 }
-body{
-    background-color: black;
-    overflow-x: hidden;
-}
 .price{
     font-size: 20px;
 }
