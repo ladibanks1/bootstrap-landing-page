@@ -1,6 +1,10 @@
 li{
     font-size: 20px;
 }
+body{
+    background-color: #cfe2ff;
+    color: #0d123a;
+}
 .product-items{
     div{
         background-color: #cfe2ff;
